@@ -4,9 +4,9 @@
 # Copyright OC Technology Pty Ltd 2014 - All rights reserved
 #==============================================================================#
 
-
+using Test
 using AWSEC2
-using Base.Test
+using AWSCore
 
 AWSCore.set_debug_level(1)
 
