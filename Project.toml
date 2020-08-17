@@ -1,5 +1,6 @@
 name = "AWSEC2"
 uuid = "cef6d55c-d35e-4438-90b1-85a0adfe5a60"
+version = "0.0.1"
 
 [deps]
 AWSCore = "4f1ea46c-232b-54a6-9b17-cc2d0f3e6598"
